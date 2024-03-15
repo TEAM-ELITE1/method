@@ -1,0 +1,93 @@
+jazoest: 2908
+lsd: AVqUMe0yARA
+display: 
+isprivate: 
+return_session: 
+skip_api_login: 
+signed_next: 
+trynum: 1
+timezone: -360
+lgndim: eyJ3IjoxNDQwLCJoIjo5MDAsImF3IjoxNDQwLCJhaCI6ODYwLCJjIjoyNH0=
+lgnrnd: 090256_MV68
+lgnjs: 1710518564
+email: dkshtboss@gmail.com
+prefill_contact_point: 01722183463
+prefill_source: browser_dropdown
+prefill_type: password
+first_prefill_source: browser_dropdown
+first_prefill_type: contact_point
+had_cp_prefilled: true
+had_password_prefilled: true
+ab_test_data: fAAAAAAAAfAAfAAAffAff/fAffAffAAfffAAAAAfAFP/fFFFFFKBAx
+encpass: #PWD_BROWSER:5:1710518685:ASVQAP45UTNu/KABE/QNYTO4YY/z/cvA8iEA0FKTfG+kNVwdZBiKkA+u41oTCzN4dnm1LGfgkQkMha+DhoFZKXbX0zoIK0zKdINgrZBwa7vqJmUnl4ZlUYFyELkBAE/gJBeg2shOd0MGcMI=
+
+
+
+:Host:
+www.facebook.com
+:method:
+POST
+:path:
+/login/device-based/regular/login/?login_attempt=1&lwv=100
+:scheme:
+https
+Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:
+gzip, deflate, br, zstd
+Accept-Language:
+en,bn;q=0.9,en-US;q=0.8
+Cache-Control:
+max-age=0
+Content-Length:
+736
+Content-Type:
+application/x-www-form-urlencoded
+Cookie:
+dbln=%7B%22100060071003833%22%3A%22E98uXW0N%22%2C%22100044158659111%22%3A%22FjtfEpAh%22%2C%22100091423191144%22%3A%229mO75ZS8%22%2C%22100004228956437%22%3A%22wX7lGjSE%22%7D; sb=N5S6ZPYUQ2m6CXhAUki025ZG; datr=N5S6ZB4lcI5x73MUy5dMp4bd; ps_n=0; ps_l=0; m_ls=%7B%22100004228956437%22%3A%7B%22c%22%3A%7B%221%22%3A%22HCwAABbgwykWjuLFxA4TBRaqhNjIgb0tAA%22%2C%222%22%3A%22GSwVQBxMAAAWBBaQ1pneDBYAABV-HEwAABYAFpDWmd4MFgAAFigA%22%2C%2295%22%3A%22HCwAABa4Dhao2dnoAxMFFqqE2MiBvS0A%22%7D%2C%22d%22%3A%22e6ac04b4-929a-4134-9430-cadb8695c877%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22g5kcds%22%7D%7D; fr=1enXXoQtsYiBwrzG0.AWWRL8wpK8psucaoU9-BVFWOuH0.Bl5e6p..AAA.0.0.Bl9HFD.AWXnVb1hNRY; wd=878x739
+Dpr:
+1
+Origin:
+https://www.facebook.com
+Referer:
+https://www.facebook.com/login/
+Sec-Ch-Prefers-Color-Scheme:
+light
+Sec-Ch-Ua:
+"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"
+Sec-Ch-Ua-Full-Version-List:
+"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.131", "Google Chrome";v="120.0.6099.131"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Model:
+""
+Sec-Ch-Ua-Platform:
+"Windows"
+Sec-Ch-Ua-Platform-Version:
+"10.0.0"
+Sec-Fetch-Dest:
+document
+Sec-Fetch-Mode:
+navigate
+Sec-Fetch-Site:
+same-origin
+Sec-Fetch-User:
+?1
+Upgrade-Insecure-Requests:
+1
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Viewport-Width:
+878
+
+
+
+https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=100
+
+
+
+
+
+
+
+
